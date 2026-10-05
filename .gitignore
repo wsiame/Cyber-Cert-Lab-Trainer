@@ -1,0 +1,15 @@
+node_modules/
+dist/
+release*/
+.reference-google-cyber/
+.idea/
+.vscode/
+*.log
+android/.gradle/
+android/.idea/
+android/local.properties
+android/**/build/
+android/capacitor-cordova-android-plugins/
+*.apk
+*.aab
+android/app/src/main/assets/public/
